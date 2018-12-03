@@ -1,0 +1,15 @@
+{
+  "name": "fetch-images-and-store-on-S3",
+  "version": "1.0.0",
+  "description": "Lambda function to fetch an array of images and store it on s3, script created from : https://github.com/serverless/examples/tree/master/aws-node-fetch-file-and-store-in-s3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.368.0",
+    "node-fetch": "^2.3.0"
+  }
+}
