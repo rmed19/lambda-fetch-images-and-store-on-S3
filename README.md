@@ -1,6 +1,3 @@
-IMAGES ARRAY LIKE : 
-{ "photos" : [{"url": "http://images.com/myimage.jpg", "key": "profile.jpg", "bucket": "my-bucket"}]}
-
 # Fetch images from URL then upload to s3
 
 This Lambda function fetchs an array of images from remote source (URL) and then uploads them to a S3 bucket.
